@@ -2,7 +2,9 @@
 
 # lista-de-contatos
 
-Clean and minimalist contact list.
+Clean and minimalist PWA contact list.
+
+Demo: https://lista-de-contatos.netlify.app/#/
 
 You can:
  - ~~Import/Export as json~~
