@@ -5,4 +5,4 @@
 Clean and minimalist contact list.
 
 You can:
- - ~~Export/Import as json ~~
+ - ~~Export/Import as json~~
