@@ -6,7 +6,7 @@
       </b-field>
 
       <b-field label="E-mail">
-        <b-input name="email" type="email" placeholder="asd@cutrale.com" expanded v-model="email"></b-input>
+        <b-input name="email" type="email" placeholder="nome@dominio.com" expanded v-model="email"></b-input>
       </b-field>
 
       <b-field label="Setor">
@@ -14,7 +14,7 @@
       </b-field>
 
       <b-field label="Ramal">
-        <b-input placeholder="9999" v-model="ramal" type="number" min="111" max="9999"></b-input>
+        <b-input placeholder="9999" v-model="ramal" type="number" min="11" max="9999"></b-input>
       </b-field>
 
       <b-field grouped><!-- Label left empty for spacing -->
